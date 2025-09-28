@@ -83,3 +83,9 @@ terraform/*.tfvars
 
 # environment file
 .env
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
